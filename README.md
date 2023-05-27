@@ -48,17 +48,28 @@ The Simply Plural API has a host of functionalities.
 - `MINIO_Secret`: Secret for MinIO
 - `OBJECT_HOST`
 
+**Google**
+- `GOOGLE_CLIENT_ID`
+- `GOOGLE_CLIENT_AUD`
+- `GOOGLE_CLIENT_IOS_ID`
+- `GOOGLE_CLIENT_SECRET`
+
+**Hash:**
+- `PASSWORD_KEY`
+- `PASSWORD_SEPERATOR`
+
+**JWT:**
+- `JWT_KEY`
+- `GOOGLE_CLIENT_JWT_AUD`
+
 **Environment:**
 - `PRETESTING`
 - `DEVELOPMENT`
 - `UNITEST`
 - `LOCAL`
 
-**Google**
-- `GOOGLE_CLIENT_ID`
-- `GOOGLE_CLIENT_AUD`
-- `GOOGLE_CLIENT_IOS_ID`
-- `GOOGLE_CLIENT_SECRET`
+**Chat**
+- `MESSAGES_KEY`
 
 
 **Optional:**
